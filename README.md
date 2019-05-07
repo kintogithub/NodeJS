@@ -1,4 +1,4 @@
-# Node sample
+# Node samples
 
 A sample node micrdoservice block for [kintohub](http://kintohub.com)
 
