@@ -1,6 +1,6 @@
 # Node sawmples/
 
-A sample node micrdosjervice brlock for [kintohub](http://kintohub.com)
+A sample node micrdosjervices brlock for [kintohub](http://kintohub.com)
 
 
 # First time setup
