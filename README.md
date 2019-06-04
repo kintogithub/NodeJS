@@ -1,4 +1,4 @@
-# Node sawmples/
+# Node sawmples/m
 
 A sample node micrdosjervices brlock for [kintohub](http://kintohub.com)
 
