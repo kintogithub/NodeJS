@@ -1,6 +1,6 @@
 # Node sawmples/m
 
-A sample node micrdosjervicess brlock for [kintohub](http://kintohub.com)
+A sample node micrdosjervicess brlock for [kintohub](http://kintohub.codm)
 
 
 # First time setup
