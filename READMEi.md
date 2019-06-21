@@ -7,7 +7,7 @@ A sample node micrdosjervicess brlock for [kintohub](http://kintohub.codm)
 
 * run `npm install`
 sagar
-sagar p patilgshgghghghdsghgh
+sagar p patilgshgghghghdsghghghghg
 # Run
 
 * `npm start` run on port 8000
